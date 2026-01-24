@@ -12,7 +12,7 @@ vfd clock
 | Микроконтроллер                  | 1      | ESP32 wroom/wrover (16мб флеш)          | [ESP32-WROOM-32UE-N16](https://aliexpress.ru/item/1005002515949841.htm)   + антенна             |
 | Датчик температуры и влажности   | 1      | SHT40 / SHT30 / SHT20                   |  [али](https://aliexpress.ru/item/1005010151069117.html)                                   |
 | Модуль часов                     | 1      | DS3231 mini                             |                                      |
-| Пассивная пьезо-пищалка          | 1      |                                         |                                      |
+| Пассивная пьезо-пищалка          | 1      | 5v                                      |                                      |
 | Датчик CO2                       | 1      | SCD40                                   |                                      |
 | Резистор  1206                   | 6      | 10 кОм                                  |                                     |
 | Резистор  1206                   | 2      | 4.7 кОм (pull-up для I²C)               |                                     |
@@ -24,7 +24,7 @@ vfd clock
 | Конденсатор электролитический    | 1      | 400-1000 мкф                            |                                     |
 | Кнопки                           | 5      | B3F-4055                 |                                     |
 | Подстроечный резистор            | 1      |                  |                                     |
-| Коннекторы                       |        |                  |                                     |
+| Коннекторы                       |        | шаг контактов 2.54\ кол-во контактов 2p, 4p, 6p, 8p  |                                     |
 | Разъем питания DC-005            | 1      |                  |                                     |
 | Клемник на плату винтовой        | 1      | 2pin шаг контактов 5мм                   |                                     |
 | Тактовые кнопки SMD              | 2      | 4X4X3.0mm 4Pin                                         |  [али](https://aliexpress.ru/item/4001317902663.htm)                                   |
@@ -37,13 +37,18 @@ vfd clock
 | PCB плата                        | 1    |                  |                                     |
 | Печатные детали корпуса          |     |                  |                                     |
 | Источник питания                 | 1    | 5 В  3A            |                                     |
-
+| Крепежные винты                  |      | M1.4 6mm  острые           |                                     |
 
 
 
 Корпус
+------------
 <img width="1280" height="445" alt="7a22f757-f263-40fc-9eb5-331b80968ea5" src="https://github.com/user-attachments/assets/2a9dc053-a04a-4cf2-9810-7fb6533d4e95" />
+
 <img width="2160" height="1082" alt="vfd_clock_futaba_gp1160a02a" src="https://github.com/user-attachments/assets/40621533-c997-46d5-b04c-7cafa807aa21" />
+
 Плата
+--------------
 <img width="1746" height="820" alt="Снимок экрана 2026-01-24 234943" src="https://github.com/user-attachments/assets/762283ca-67ab-4c83-a419-e325913a2740" />
 
+<img width="1551" height="715" alt="Снимок экрана 2026-01-25 011753" src="https://github.com/user-attachments/assets/cb6585d6-00f2-4628-87e0-f23708ec7776" />
