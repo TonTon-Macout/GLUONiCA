@@ -2,5 +2,4 @@
 vfd clock
 
 
-
-![photo_2026-01-24_16-50-39](https://github.com/user-attachments/assets/3150d7a0-108a-4365-a75a-855a9ee702fc)
+<img width="1746" height="820" alt="Снимок экрана 2026-01-24 234943" src="https://github.com/user-attachments/assets/762283ca-67ab-4c83-a419-e325913a2740" />
