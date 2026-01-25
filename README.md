@@ -6,6 +6,7 @@
 
 ![IMG_20260125_113436571](https://github.com/user-attachments/assets/bc3f0b02-1d38-4fdd-81f9-9c07f35c165c)
 
+[https://youtu.be/9DDNec8Io-I?si=lxPgc38aLBo1mTzL](https://youtu.be/9DDNec8Io-I?si=lxPgc38aLBo1mTzL)
 
 ## Возможности часов GLUONiCA
 + показывает время
