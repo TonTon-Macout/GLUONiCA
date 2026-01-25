@@ -64,6 +64,13 @@
 
 
 
+
+
+Дисплей
+------------
+<img width="619" height="246" alt="Снимок экрана 2026-01-25 101837" src="https://github.com/user-attachments/assets/22d02c9c-d61f-4261-92e9-393753972452" />
+<img width="617" height="225" alt="Снимок экрана 2026-01-25 101844" src="https://github.com/user-attachments/assets/b9c32286-f88d-4a65-97a0-84aed56e5984" />
+
 Корпус
 ------------
 <img width="1280" height="445" alt="7a22f757-f263-40fc-9eb5-331b80968ea5" src="https://github.com/user-attachments/assets/2a9dc053-a04a-4cf2-9810-7fb6533d4e95" />
@@ -75,3 +82,5 @@
 <img width="1746" height="820" alt="Снимок экрана 2026-01-24 234943" src="https://github.com/user-attachments/assets/762283ca-67ab-4c83-a419-e325913a2740" />
 
 <img width="1551" height="715" alt="Снимок экрана 2026-01-25 011753" src="https://github.com/user-attachments/assets/cb6585d6-00f2-4628-87e0-f23708ec7776" />
+
+
