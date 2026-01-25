@@ -13,8 +13,8 @@
   + из rtc или ntp сервера
 + веб интерфейс для настроек
   + через браузер
-  + приложение для windows
-  + приложение для android
+  + приложение для [windows](https://github.com/TonTon-Macout/Remote-Settings-Manager) 
+  + приложение для [android](https://github.com/TonTon-Macout/Remote-Settings-Manager/blob/main/android/README.md)
 + циферблаты с переключаемой информационной частью
 + выводит
   + температуру/влажность/СО2/давление
