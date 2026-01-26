@@ -15,7 +15,7 @@
   + через браузер
   + приложение для [windows](https://github.com/TonTon-Macout/Remote-Settings-Manager) 
   + приложение для [android](https://github.com/TonTon-Macout/Remote-Settings-Manager/blob/main/android/README.md)
-  + так же подойдут все приложения для [Settings AlexGyver'a](https://github.com/GyverLibs/Settings) 
+  + так же подойдут приложения для [Settings AlexGyver'a](https://github.com/GyverLibs/Settings) 
 + циферблаты с переключаемой информационной частью
 + выводит
   + температуру/влажность/СО2/давление
