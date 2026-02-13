@@ -72,7 +72,7 @@
 Для доступа к сайту возможно понадобится ВПН. 
 
 1.  Перейдите на сайт: [https://openweathermap.org/](https://openweathermap.org/)
-2.  Нажмите кнопку **"Sign In"** (или "Sign Up", если у вас нет аккаунта).
+2.  Нажмите кнопку **"Login"**
 3.  Создайте аккаунт, подтвердите email.
 4.  В личном кабинете перейдите в раздел **"API Keys"** (обычно доступен по ссылке: [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys)).
 5.  В поле **"Create Key"** введите любое название (например, `gluonica_clock`) и нажмите **"Generate"**.
