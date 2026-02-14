@@ -42,7 +42,7 @@
 | Дисплей                          | 1      | GP1294AI 256X48                         |  [али](https://aliexpress.ru/item/1005008543990730.html)                                   |
 | Микроконтроллер                  | 1      | ESP32 wroom (16мб флеш)          | [ESP32-WROOM-32UE-N16](https://aliexpress.ru/item/1005002515949841.htm)   + антенна        |
 | Датчик температуры и влажности   | 1      | SHT40 / SHT30 / SHT20                   |  [али](https://aliexpress.ru/item/1005010151069117.html)                                   |
-| Модуль часов                     | 1      | DS3231 mini                             |                                      |
+| Модуль часов                     | 1      | DS3231 mini                             |  [али](https://aliexpress.ru/item/1005008498420397.html?shpMethod=CAINIAO_STANDARD&sku_id=12000047745050119)                                    |
 | Пассивная пьезо-пищалка          | 1      | 5v                                      |                                      |
 | Датчик CO2                       | 1      | SCD40                                   |                                      |
 | Детектор грозы                   | 1      | AS3935                                  |   [али](https://aliexpress.ru/item/4001145161231.html)                                   |
