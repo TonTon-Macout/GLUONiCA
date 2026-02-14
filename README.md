@@ -101,6 +101,5 @@
 --------------
 <img width="1746" height="820" alt="Снимок экрана 2026-01-24 234943" src="https://github.com/user-attachments/assets/762283ca-67ab-4c83-a419-e325913a2740" />
 
-<img width="1551" height="715" alt="Снимок экрана 2026-01-25 011753" src="https://github.com/user-attachments/assets/cb6585d6-00f2-4628-87e0-f23708ec7776" />
 
-
+<img width="1552" height="714" alt="Снимок экрана 2026-02-14 095538" src="https://github.com/user-attachments/assets/a06c26aa-ff00-4772-a2ac-0e99770b0604" />
